@@ -1,7 +1,7 @@
 # BiliBili小程序学习（待完善）
 ## 项目预览图
 
-![image](https://github.com/wuyangshu/bilibili/raw/master/GIF.gif)
+![image](https://github.com/Mr-Mei/MyBilibili/blob/master/project.jpg)
 
 ## 小程序？
 小程序是一个可以实现之前只能是原生态APP可以实现的效果和功能。
