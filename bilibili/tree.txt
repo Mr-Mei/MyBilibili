@@ -1,0 +1,70 @@
+文件夹 PATH 列表
+卷序列号为 E016-E19F
+F:.
+│  app.js
+│  app.json
+│  app.wxss
+│  components.wxss
+│  project.config.json
+│  sitemap.json
+│  xxx.txt
+│  
+├─.idea
+│  │  bilibili.iml
+│  │  misc.xml
+│  │  modules.xml
+│  │  workspace.xml
+│  │  
+│  ├─dictionaries
+│  │      Administrator.xml
+│  │      
+│  ├─inspectionProfiles
+│  │      Project_Default.xml
+│  │      
+│  └─libraries
+│          wx_d_ts.xml
+│          
+├─components
+│  └─MyTitle
+│          MyTitle.js
+│          MyTitle.json
+│          MyTitle.wxml
+│          MyTitle.wxss
+│          
+├─images
+│      back.png
+│      collect.png
+│      danmu_32.png
+│      download.png
+│      fanju.png
+│      gengduo.png
+│      lishi.png
+│      logo.png
+│      more.png
+│      paihang.png
+│      play.png
+│      search.png
+│      share.png
+│      tuijian1.png
+│      user.png
+│      zhibo.png
+│      
+├─pages
+│  ├─detail
+│  │      detail.js
+│  │      detail.json
+│  │      detail.wxml
+│  │      detail.wxss
+│  │      
+│  └─index
+│          index.js
+│          index.json
+│          index.wxml
+│          index.wxss
+│          
+├─styles
+│      fontawesome.wxss
+│      
+└─utils
+        util.js
+        
